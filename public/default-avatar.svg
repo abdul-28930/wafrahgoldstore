@@ -1,0 +1,8 @@
+<!-- public/images/avatar1.svg -->
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="64" cy="64" r="64" fill="#FFD700" />
+  <circle cx="64" cy="48" r="24" fill="#FFF8DC" />
+  <path d="M32 104c6-20 26-28 64-16-4 16-64 16-64 16z" fill="#fff3c0"/>
+  <circle cx="56" cy="44" r="4" fill="#333"/>
+  <circle cx="72" cy="44" r="4" fill="#333"/>
+</svg>
